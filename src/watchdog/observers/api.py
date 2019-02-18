@@ -42,6 +42,7 @@ class ObservedWatch(object):
     :param path:
         Path string.
     :param recursive:
+        递归
         ``True`` if watch is recursive; ``False`` otherwise.
     """
 
